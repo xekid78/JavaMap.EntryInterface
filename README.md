@@ -2,7 +2,7 @@
 Map.Entryインタフェース
 
 ## 処理
-Map.Entryインタフェースを使ってHashMapの配列を出力。
+`Map.Entry()`インタフェースを使って`HashMap()`の配列を出力。
 
 ## コード
 ```
